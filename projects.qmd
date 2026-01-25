@@ -1,16 +1,16 @@
 ---
 title: "Technical Projects"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
+
 ---
 
 Below is a selection of data science projects demonstrating my end-to-end capabilities, from raw data engineering to statistical **modeling** and stakeholder presentation.
 
 ---
 
-## 1. Credit Card Customer Segmentation 
+## 1. Credit Card Customer Segmentation {#credit-card}
+
+![Figure 1: Customer Segments Visualization](assets/results_credit_card.jpeg){width=80% fig-align="center"}
+
 **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Kneed
 **Status:** Ongoing Research
 
@@ -57,7 +57,7 @@ final_df = pd.DataFrame(final_data, columns=direct_features + [f'PC{i+1}' for i 
 
 ---
 
-## 2. Global Rehabilitation Analysis 
+## 2. Global Rehabilitation Analysis {#Global-Rehab}
 **Tools:** Power BI, SQL, DAX
 **Status:** Ongoing Research
 

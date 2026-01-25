@@ -6,6 +6,8 @@ project:
 
 website:
   title: "Bhabilsh Limbu"
+  favicon: assets/logo.png
+  
   navbar:
     background: primary 
     search: false
@@ -21,3 +23,18 @@ website:
         href: https://github.com/bhabs2021
       - icon: linkedin
         href: https://www.linkedin.com/in/bhabilsh-l-1200771b1/
+
+  page-footer:
+    background: primary
+    center:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/bhabilsh-l-1200771b1/
+      - icon: github
+        href: https://github.com/bhabs2021
+      - icon: envelope
+        href: "mailto:limbubhabilsh@gmail.com"
+
+format:
+  html:
+    theme: Zephyr
+    css: styles.css

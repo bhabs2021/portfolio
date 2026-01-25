@@ -1,1 +1,33 @@
 /* css styles */
+
+.g-col-4 {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.g-col-4:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    background-color: #f8f9fa;
+}
+
+.project-gif {
+    width: 100%;             
+    height: 200px;           
+    object-fit: cover;       
+    border-radius: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #eee;
+}
+
+.footer-items .nav-link i {
+    font-size: 1.5rem !important; 
+    line-height: 1;                
+    vertical-align: middle;        
+    margin-right: 8px;             
+}
+
+.footer-items .nav-link {
+    color: rgba(255, 255, 255, 0.9) !important;
+}

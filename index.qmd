@@ -3,16 +3,6 @@ title: "Bhabilsh Limbu"
 about:
   template: jolla
   image: profile.jpg
-  links:
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/bhabilsh-l-1200771b1/
-    - icon: github
-      text: GitHub
-      href: https://github.com/bhabs2021
-    - icon: file-text
-      text: Resume
-      href: resume.qmd
 ---
 
 ## Data Scientist | Teacher
@@ -24,12 +14,16 @@ Final year **Data Science undergraduate**, with a core focus on **Statistical In
 ::: {.grid .justify-content-center}
 
 ::: {.g-col-12 .g-col-md-4 .g-start-md-3 .text-center}
-### [Credit Card Customer Segmentation](projects.qmd#Credit_Card_Customer_Segmentation)
+![](assets/Credit_Card.gif){.project-gif}
+
+### [Credit Card Customer Segmentation](projects.qmd#credit-card)
 Hybrid unsupervised learning pipeline combining **PCA** with **K-Means clustering** to segment high-dimensional credit card data into distinct profiles, enabling targeted marketing strategies and distinct risk identification.
 :::
 
 ::: {.g-col-12 .g-col-md-4 .text-center}
-### [Global Rehabilitation Analysis](projects.qmd#Global_Rehabilitation_Analysis)
+![](assets/Global_Rehab.gif){.project-gif}
+
+### [Global Rehabilitation Analysis](projects.qmd#Global-Rehab)
 Interactive **Power BI solution** utilising **SQL** and **DAX** to transform complex global health metrics into accessible, policy-driven insights for identifying critical rehabilitation needs and guiding resource allocation.
 
 :::
