@@ -9,7 +9,7 @@ Below is a selection of data science projects demonstrating my end-to-end capabi
 
 ## 1. Credit Card Customer Segmentation {#credit-card}
 
-![Figure 1: Customer Segments Visualization](assets/results_credit_card.jpeg){width=80% fig-align="center"}
+![Figure 1: Customer Segments Visualisation](assets/results_credit_card.jpeg){width=80% fig-align="center"}
 
 **Tools:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Kneed
 **Status:** Ongoing Research
