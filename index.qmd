@@ -15,27 +15,21 @@ about:
       href: resume.qmd
 ---
 
-## Data Scientist | Behavioral Analyst | Optimization Researcher
+## Data Scientist | Teacher
 
-I bridge the gap between complex statistical modeling and strategic business decisions. With a strong foundation in **Computer Science** (University of Greenwich) and specialized experience in **Geospatial Optimization** and **Unsupervised Learning**, I build tools that solve real-world problems.
+**Final year** undergraduate, with a background in Computer Science and a core focus on **Statistical Inference** and **Trend Analysis**. Skilled at identifying hidden patterns within high-dimensional data and translating statistical significance into commercial opportunity. By leveraging **Unsupervised Learning** and **Predictive Modelling**, I transform raw data into actionable forecasts that mitigate risk and identify emerging market trends.
 
 ### Featured Projects
 
 ::: {.grid}
 
 ::: {.g-col-4}
-### [Solar Optimization](projects.qmd#solar)
-Using **Python, pvlib, and Uber H3** to model and optimize solar panel placement in complex urban environments.
+### [Credit Card Customer Segmentation](projects.qmd#Credit_Card_Customer_Segmentation)
+Hybrid unsupervised learning pipeline combining **PCA** with **K-Means clustering** to segment high-dimensional credit card data into distinct profiles, enabling targeted marketing strategies and distinct risk identification.
 :::
 
 ::: {.g-col-4}
-### [Credit Segmentation](projects.qmd#credit)
-Applied **PCA and K-Means** to segment credit card users, identifying key behavioral clusters for targeted marketing.
-:::
-
-::: {.g-col-4}
-### [Migration Analytics](projects.qmd#hackathon)
-**Power BI** dashboards and data migration strategy that linked tutor engagement to student retention.
-:::
+### [Global Rehabilitation Analysis](projects.qmd#Global_Rehabilitation_Analysis)
+Interactive **Power BI solution** utilising **SQL** and **DAX** to transform complex global health metrics into accessible, policy-driven insights for identifying critical rehabilitation needs and guiding resource allocation.
 
 :::

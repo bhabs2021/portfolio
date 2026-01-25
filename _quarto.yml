@@ -1,12 +1,14 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - "assets/*.pdf"
 
 website:
   title: "Bhabilsh Limbu"
   navbar:
-    background: primary  # Options: primary, dark, light, secondary
-    search: false        # Set to true if you want a search bar
+    background: primary 
+    search: false
     left:
       - href: index.qmd
         text: Home
@@ -18,4 +20,4 @@ website:
       - icon: github
         href: https://github.com/bhabs2021
       - icon: linkedin
-        href: https://www.linkedin.com/in/your-profile
+        href: https://www.linkedin.com/in/bhabilsh-l-1200771b1/

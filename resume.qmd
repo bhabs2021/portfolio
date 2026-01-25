@@ -1,0 +1,10 @@
+---
+title: "My Resume"
+---
+
+## Resume
+
+```{=html}
+<object data="assets/Bhabilsh_Limbu_CV.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Unable to display PDF. <a href="assets/Bhabilsh_Limbu_CV.pdf">Download it here</a>.</p>
+</object>
