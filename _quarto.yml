@@ -6,7 +6,7 @@ project:
 
 website:
   title: "Bhabilsh Limbu"
-  favicon: assets/logo.png
+  favicon: assets/icon.png
   
   navbar:
     background: primary 

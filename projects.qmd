@@ -80,7 +80,7 @@ This strategy ensured robust segmentation and deeper insight into customer behav
 * **Enabled stakeholders to drill into specific conditions and geographies instantly.**
 
 ### Power BI Snapshot
-*Executive summary with KPIs*
+*Executive summary with KPIs- Loading...*
 
 <object data="assets/Global_Rehabilitation_Analysis.pdf" type="application/pdf" width="100%" height="600px">
     <p>Unable to display PDF file. <a href="assets/Global_Rehabilitation_Analysis.pdf">Download</a> instead.</p>
